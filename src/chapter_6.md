@@ -2026,7 +2026,7 @@ I wanted to much more deeply look into, analytically and critically, the concept
 
 ### REMINDER: Use AI only to make some of the tasks less menial, but ONLY rely on AI to furnish a high-level cliche-rich overview of the conventional wisdom embedded in ALL large language models driving all AI ... but don't trust AI to think for you;  the roadmap that AI provides -- you have to [PAY CLOSE ATTENTION TO COGNITIVE OFFLOADING](https://www.youtube.com/watch?v=6sJ50Ybp44I&t=840s).
 
-### [Day 84 - August 23, 2025](https://docs.google.com/document/d/1KRrUOfCLi77cPlYXFrxGno5I1gyH4VETWNAUt8OBDik/edit?usp=sharing) | [Nutrition: Theological Exploration of Eating AND Why Just Eating Causes Problems](https://g.co/gemini/share/f2d2d9e94511)
+### [Day 84 - August 23, 2025](https://docs.google.com/document/d/1b01MguboIE6p5lPE3UXILufB5B_n9w0aZaoZTg2wVdQ/edit?usp=sharing) | [Nutrition: Theological Exploration of Eating AND Why Just Eating Causes Problems](https://g.co/gemini/share/081460725e67)
 
 Today's topic is about getting more out of eating than just swallowing food ... in other words, it's about transforming the act of eating itself into an act of prayer ... not just, politely saying grace beforehand, but eating prayerfully, without distractions, eg no teevee watching ... to focus on the use of the nutrients in order to support the main goals of existence. It's about balancing fasting with eating to improve discipline, channel our desires toward service and to better cultivate gratitude. After an enormous amount of preparation and gathering of background, Gemini was prompted to:
 
