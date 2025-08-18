@@ -14,7 +14,7 @@
     - [Not JUST Saying Grace](./nested/6_004.md) ... [Not just before, but DURING your next meal, can you practice eating meditation, chewing slowly and savoring each bite as a gift from God and a testament to the Creator's provision](https://suno.com/playlist/dfd46d31-6831-422c-8b92-5a9acd38c1a2)?  
   - [Rest, Readiness For Service](./7.md)
   - [Stress Optimization](./8.md)
-  - [Hydration and Qi](./9.md)
+  - [Hydration and Circulation](./9.md)
   - [Mobility, Coordination](./A.md)
   - [Program Yourself](./B.md)
   - [Knowledge Systems Engineering](./C.md)
