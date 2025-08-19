@@ -20,6 +20,7 @@
   - [Knowledge Systems Engineering](./C.md)
   - [Advanced AI Systems Dev Tools](./D.md)
   - [Personal Knowledge Engineering (PKE) System](./E.md)
+  - [Koan Engine: 100-Module Architectural Plan](./F.md)
 
 
 - [400 Days Of Wellness Topics](./chapter_6.md)
