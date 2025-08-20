@@ -8,6 +8,10 @@ The architecture balances technical sophistication with contemplative simplicity
 
 ---
 
+The NEXT step of this, or what we're trying to lay the groundwork for, involves something like [agentic koans or paradoxical inquiry handed off to humans by context-wise AI](https://docs.google.com/document/d/1dSu9spOxXWjPozkThKddmvxJa95ODEw1MM6zDSBwlxw/edit?usp=sharing).  What makes for Relevant Pondering? It will NOT be something that has already been tried, it will not be something that gets trotted out as pet answer during brainstorming sessions. It’s something that is the kind of thing that starts off with something nobody thought was even worth pondering before … NOT necessarily the ideas that always get shot down because of the inherent conflicts, pain, landmines, taboo unpopular topics – there are still constraints that will matter … the idea that is relevant for more pondering is about something that almost seems similar, but just doesn’t SEEM to fit and therefore is just not worth the trouble. How do we algorithmically go through the tedious process of sifting through noise to find those ideas?
+
+---
+
 ## Infrastructure and DevOps (Modules 1-10)
 
 ### Module 1: Cloud Infrastructure Foundation
