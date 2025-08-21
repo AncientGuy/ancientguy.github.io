@@ -1906,7 +1906,7 @@ Today, I would like to focus on how working on heart health has virtuous circle 
 - Structure the analysis along an intellectual-emotional-spiritual arc, weaving in the roles of metrics, community influence, expert knowledge, and internal self-regulation practices like breathwork.
 - Integrate these expanded dimensions to build upon the original draft's conclusion, offering a comprehensive model of how discipline is forged through the interplay of personal metrics, external environment, and internal practices.
 
-### [Day 84 - August 23, 2025](https://docs.google.com/document/d/1b01MguboIE6p5lPE3UXILufB5B_n9w0aZaoZTg2wVdQ/edit?usp=sharing) | [Nutrition: Theological Exploration of Eating AND Why Just Eating Causes Problems](https://g.co/gemini/share/081460725e67)
+### [Day 84 - August 23, 2025](https://docs.google.com/document/d/1b01MguboIE6p5lPE3UXILufB5B_n9w0aZaoZTg2wVdQ/edit?usp=sharing) | [Nutrition: Theological Exploration of Eating AND Why JUST Eating Causes Problems](https://g.co/gemini/share/081460725e67)
 
 Today's topic is about getting more out of eating than just swallowing food ... in other words, it's about transforming the act of eating itself into an act of prayer ... not just, politely saying grace beforehand, but eating prayerfully, without distractions, eg no teevee watching ... to focus on the use of the nutrients in order to support the main goals of existence. It's about balancing fasting with eating to improve discipline, channel our desires toward service and to better cultivate gratitude. After an enormous amount of preparation and gathering of background, Gemini was prompted to:
 
