@@ -1973,21 +1973,32 @@ Toward this end, Gemini was prompted to:
 - Celebrate improvements in movement quality
 - Plan mobility focus areas for fall season
 
-
  
 ### Day 91 - August 30, 2025 | Christian Spiritual Health: Faithful Consistency
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. 
+
+Sure, sure, sure beforehand I knew that a this point I would be thinking about things like: 
 - Reflect on God's faithfulness in your health journey
 - Practice gratitude for ability to maintain healthy habits
 - Connect physical consistency to spiritual faithfulness
 - Commit to continued stewardship in new season
 
+Those are not unimportant things ... obviously, we can see that they are important ... but ***the plan*** was to reflect on that, when I started ... **BUT WHAT ELSE?**
 
+I think that I gave too much importance to *faithful, consistent* participation in church and church activities for, if nothing else, the appearance of at least trying to participate in the church ... BUT my emphasis should be on participating in the activities of the believers and those who are members of the BODY of Christ AND I should have been looking harder at trying more aggressively to reach out, ie as if I was looking for a job OR trying to start a company OR trying to do business development for a product ... this will sound heretical to some, but I do not recognize the BODY of Christ in many churches ... many churches are comprised of people who like I ***WAS*** somebody who doesn't really feel it, but is, with the best intentions, trying to *fake it until I make it.*  They are ALWAYS going to be comprised of people who are in that mode ... they are NEVER going to escape that trajectory ... because that trajectory of just being in orbit around a dead center of mass is enough for some.
+
+It's certainly **NOT** that going to church is a bad thing, even if people just going through the motions for reasons they don't fully understand ... orbiting a dead center of mass is AT LEAST being in orbit ... THE problem with participating in church activities, is the same as DRIVING TO the gym instead of walking more including walking to the gym -- the problem is that while one is going through the motions, doing the mindless thing, one is failing to do the HARDER, TOUGHER, IMPOSSIBLE contemplative thing that nobody sees ... and the REASON that the contemplative thing matters is definitely NOT the contemplation -- it is the FRUIT of the contemplation, ie specifically HOW does the contemplation CHANGE one ... not the outward physical manifestation of the *change*, ie *as a result of my contemplation, I decided to PLAN, DO, CHECK and ACT systematically on long-term project X** but the internal and ETERNAL ***change*** itself.
  
 ### Day 92 - August 31, 2025 | Strength Training: Summer Strength Assessment
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Test strength improvements from summer training
 - Document progress in weights, repetitions, or hold times
 - Celebrate gains while maintaining humility
 - Set strength goals for fall season ahead
+
+**BUT WHAT ELSE?**
+
+
 
 ---
 
@@ -1996,67 +2007,85 @@ Toward this end, Gemini was prompted to:
 
  
 ### Day 93 - September 1, 2025 | Cardiovascular Health: Fall Transition Cardio
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Adjust cardio routine for cooler weather and changing schedules
 - Explore indoor cardio options for upcoming weather changes
 - Practice consistency as seasons and schedules shift
 - Appreciate body's ability to adapt to environmental changes
 
+**BUT WHAT ELSE?**
 
  
 ### Day 94 - September 2, 2025 | Nutrition: Seasonal Transition Foods
+
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Begin incorporating fall harvest foods into diet
 - Practice gradual transition from summer to autumn eating
 - Focus on foods that support immune system for season change
 - Balance continuing summer abundance with fall preparation
 
+**BUT WHAT ELSE?**
 
+Well, it's about COMMUNION ... and consuming the flesh of Christ, EVERY SINGLE DAY, multiple times a day ... with EVERY LAST BITE OF SUSTENANCE we ingest ... EVERY LAST THING, but especially food ... that means NO SUGAR. Refusing to seek out food to provide emotional comfort or enjoyment, but seeking out food to make my body more Christ-like ... and along the way, enjoyment WILL happen ... but NO SUGAR!!!  No EMOTIONAL poison, disguised as something merely tasty or like candy.
  
-### Day 95 - September 3, 2025 | Intellectual Wellbeing: Back-to-School Mindset
+### Day 95 - September 3, 2025 | Intellectual Wellbeing: Back-to-School Mindset, In A MUCH LARGER SENSE
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Labor Day: Approach fall with learning and growth mindset
 - Set educational goals related to health and wellness
 - Practice intellectual curiosity about body and fitness
 - Plan learning projects for fall and winter months
 
+**BUT WHAT ELSE?**
 
  
 ### Day 96 - September 4, 2025 | Social Connection: Fall Community Planning
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Plan social activities that include physical movement for fall
 - Connect with community groups focused on autumn activities
 - Prepare for indoor social fitness activities
 - Maintain social connections as outdoor gatherings decrease
 
+**BUT WHAT ELSE?**
 
  
 ### Day 97 - September 5, 2025 | Rest & Recovery: Schedule Transition Rest
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Adjust sleep schedule for changing daylight hours
 - Practice consistent bedtime routine as schedules become busier
 - Plan for adequate rest during season of increased activity
 - Balance fall energy with necessary recovery time
 
+**BUT WHAT ELSE?**
 
  
 ### Day 98 - September 6, 2025 | Stress Management: September Schedule Stress
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Manage stress of returning to fall routines and schedules
 - Practice time management for health habits amid busy-ness
 - Use breathing techniques during schedule transitions
 - Maintain perspective about importance of health habits
 
+**BUT WHAT ELSE?**
 
  
 ### Day 99 - September 7, 2025 | Hydration: Cooler Weather Adjustment
 - Adjust hydration habits for decreased heat and sweating
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Maintain consistent fluid intake despite reduced thirst cues
 - Practice awareness of hydration needs during temperature changes
 - Connect hydration to immune system support for season change
 
+**BUT WHAT ELSE?**
 
  
 ### Day 100 - September 8, 2025 | Mobility: Fall Activity Preparation
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
 - Prepare body for fall activities (hiking, raking, sports)
 - Practice movements specific to autumn physical demands
 - Focus on joint health as weather begins to cool
 - Maintain summer mobility gains as activity patterns change
 
+**BUT WHAT ELSE?**
 
  
 ### Day 101 - September 9, 2025 | Christian Spiritual Health: Harvest Gratitude
