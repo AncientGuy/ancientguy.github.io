@@ -1990,7 +1990,9 @@ I think that I gave too much importance to *faithful, consistent* participation 
 It's certainly **NOT** that going to church is a bad thing, even if people just going through the motions for reasons they don't fully understand ... orbiting a dead center of mass is AT LEAST being in orbit ... THE problem with participating in church activities, is the same as DRIVING TO the gym instead of walking more including walking to the gym -- the problem is that while one is going through the motions, doing the mindless thing, one is failing to do the HARDER, TOUGHER, IMPOSSIBLE contemplative thing that nobody sees ... and the REASON that the contemplative thing matters is definitely NOT the contemplation -- it is the FRUIT of the contemplation, ie specifically HOW does the contemplation CHANGE one ... not the outward physical manifestation of the *change*, ie *as a result of my contemplation, I decided to PLAN, DO, CHECK and ACT systematically on long-term project X** but the internal and ETERNAL ***change*** itself.
  
 ### Day 92 - August 31, 2025 | Strength Training: Summer Strength Assessment
-This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. 
+
+Sure, sure, sure beforehand I knew that a this point I would: 
 - Test strength improvements from summer training
 - Document progress in weights, repetitions, or hold times
 - Celebrate gains while maintaining humility
@@ -1998,7 +2000,7 @@ This is about what I have *learned* in the first quarter doing this ... and mayb
 
 **BUT WHAT ELSE?**
 
-
+It's really about the *shit shuffling* that one SHOULD do ... in sorting, regrouping, refactoring, repack, re-preppering all of one's stuff ... ULTIMATELY, that includes throwing shit out -- but not until one is SURE ... and being SURE involves a lot of lifting, repositioning, carrying around, just to sort through it again.  Shit shuffling is strength building ... yes, tidying up involves lots of wasted steps and unnecessary motion ... but it's like going for a daily walk ... just ordinary stuff like body weight, **load bearing** doing pull-ups, push-ups, sit-ups ... is all important exercise ... body weight should be USED, and forced to justify itself, ie can body fat do a pull-up? ... the same applies to material possessions -- we don't just cut it off, any more than we get out a sharp kitchen knife and lop off belly fat -- there's RIGHT WAY TO DISPOSE OF FAT, ie fasting WITH exercise ... in a similar fashoin **shit shuffling or the process of "correct arrangement" [5S](https://en.wikipedia.org/wiki/5S_(methodology))'ing one's life is [autophagic](https://en.wikipedia.org/wiki/Autophagy) strength building.**
 
 ---
 
@@ -2018,7 +2020,9 @@ This is about what I have *learned* in the first quarter doing this ... and mayb
  
 ### Day 94 - September 2, 2025 | Nutrition: Seasonal Transition Foods
 
-This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. 
+
+Sure, sure, sure beforehand I knew that a this point I would: 
 - Begin incorporating fall harvest foods into diet
 - Practice gradual transition from summer to autumn eating
 - Focus on foods that support immune system for season change
@@ -2026,7 +2030,7 @@ This is about what I have *learned* in the first quarter doing this ... and mayb
 
 **BUT WHAT ELSE?**
 
-Well, it's about COMMUNION ... and consuming the flesh of Christ, EVERY SINGLE DAY, multiple times a day ... with EVERY LAST BITE OF SUSTENANCE we ingest ... EVERY LAST THING, but especially food ... that means NO SUGAR. Refusing to seek out food to provide emotional comfort or enjoyment, but seeking out food to make my body more Christ-like ... and along the way, enjoyment WILL happen ... but NO SUGAR!!!  No EMOTIONAL poison, disguised as something merely tasty or like candy.
+Well, what I have learned is more intelligent APPRECIATION of food ... including in a spiritual sense ... ORDINARY eating has to be about HOLY COMMUNION ... and consuming the flesh of Christ, EVERY SINGLE DAY, many multiple times a day ... with EVERY LAST BITE OF SUSTENANCE we ingest ... EVERY LAST THING, but especially food ... that means NO SUGAR. Refusing to seek out food to provide emotional comfort or enjoyment, but seeking out food to make my body more Christ-like ... and along the way, enjoyment WILL happen ... but NO SUGAR!!!  No EMOTIONAL poison, disguised as something merely tasty or like candy.
  
 ### Day 95 - September 3, 2025 | Intellectual Wellbeing: Back-to-School Mindset, In A MUCH LARGER SENSE
 This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. Sure, sure, sure beforehand I knew that a this point I would: 
