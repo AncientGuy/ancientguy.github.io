@@ -1939,11 +1939,15 @@ Toward this end, Gemini was prompted to:
  
 ### [Day 86 - August 25, 2025](https://docs.google.com/document/d/1gb7fkRCIfXPIy0lozX3Obtb1_xZaQe2403naiZRu_Gg/edit?usp=sharing) | [Social Connection: Instead Of Merely Encouraging, Try Tactical Listening](https://g.co/gemini/share/c166e37db169)
 
-If we care about others, we are ALWAYS gathering human intelligence ... ALWAYS, ALWAYS, ALWAYS **listening** ... and JUST listening!  **Listening** means paying attention to just the *listening* ... which requires shutting the fuck up, even to the point of almost never just giving encouragement. *What are you going to say?*  Especially to anyone who's still in that state of *knowing it all* ... not yet at the point where THEY are ready to listen ... EXACTLY, wtf do you think you are going to say to someone who's incapable of listening YET?
+When we actually care about others, we are ALWAYS gathering human intelligence ... ALWAYS, ALWAYS, ALWAYS **listening** ... and, for the most part, JUST **listening**!  
+
+**Listening** means paying attention to just the task, skill, system of *listening* ... which requires shutting the fuck up, just to not hear our own noise, and then *waiting* ... even to the point of almost never just giving encouragement. 
+
+Because if you can't LISTEN, then *WHAT* is going to come out of your mouth, *what are you going to say?*  Especially to anyone who's still in that state of *knowing it all* ... not yet at the point where THEY are ready to listen ... EXACTLY, wtf do you think you are going to say to someone who's incapable of listening YET?
 
 But you can LISTEN.
 
-- Reach out to someone who *might be* struggling with some *un-discussed* rehabilitation, recovery or health goals ... ONLY to LISTEN
+- Listen and find out what you can find out first -- but reach out to someone who *might be* struggling with some *un-discussed* rehabilitation, recovery or health goals ... ONLY to LISTEN
 - LISTEN, LISTEN, LISTEN ... resist the urge to share some resource, or tip, or even encouragement ... just LISTEN -- do NOT fix!
 - Practice ACTIVE LISTENING with an intent to ***listen tactically***, RATHER than a just positive coach/mentor influence
 - Focus on BACKING THE FUCK OFF ... STOP even giving advice ... tactical listening is about THINKING, to IMPROVE the level of support 
