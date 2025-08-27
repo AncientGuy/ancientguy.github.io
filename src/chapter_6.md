@@ -2065,20 +2065,19 @@ But that's just it ... if we need need data or empiricism or proof ... *what is 
 In other words, we actually COULD wield stress wisely ... but MAYBE the reason that we don't use stress or can't use stress is that we REFUSE to have to faith, because we INSIST on seeing ourselves as some sort of god.
 
  
-### Day 89 - August 28, 2025 | Hydration: Transition Preparation
-- Begin adjusting hydration needs for cooler weather ahead
-- Maintain consistent hydration habits regardless of season
-- Practice awareness of body's changing needs
-- Prepare hydration strategies for fall activities
+### [Day 89 - August 28, 2025](https://docs.google.com/document/d/1Jie2LmS_i4IKpfbLg6ACQbUB9ScDOKjwDeETz5QL20U/edit?usp=sharing) | [Hydration: THINKING Beyond Seasonal Adjustments](https://g.co/gemini/share/0cc55549a66e)
 
+It sounds almost trite to say something such ... *optimal hydration is the bedrock of cognitive acuity, cardiovascular resilience, and peak physical performance* ... of course, it does! 
 
- 
-### Day 90 - August 29, 2025 | Mobility: Summer Mobility Assessment
-- Test flexibility and mobility gains from summer
-- Document progress in photos or measurements
-- Celebrate improvements in movement quality
-- Plan mobility focus areas for fall season
+But, the fact of the matter is that many, maybe most, people sort of treat hydration as a seasonal thing -- hydration discipline sort of has a tendency to drop off the radar or shift to the back burner as change to cooler weather. 
 
+THE PROBLEM is that, even imperceptibly mild dehydration, defined as a body water loss of only just 1–2%, significantly impairs cognitive performance ... BEFORE one notices any physical aspects of being even slightly dehydrated ... the damage from hydration deficits is enough so that the cognitively-challenged brain will struggle that much sooner, the reaction results in getting sleepy or generating more stress, pushing people to things like need an additional nap, sleep less well, find comfort in food or worse, resort to using alcohol to deal with extra stress that comes as people come back from vacation and get serious about projects at work again.
+
+### Day 90 - August 29, 2025 | Mobility: "Who's Ready For Snow Shoveling" Mobility Assessment
+
+One thing that I REALLY noticed as I entered my late 30s and give up my tasks related to saving the family farm was that when I gave up farming on the weekends and squeezing chores into time away from the ordinary job ... or when I decide to settle down become a corporate cube dweller knowledge worker ... was that when I no longer monsterous levels of chores, no longer had to shovel snow out of feed bunks or keep waterers thawed or had to move hay/feed/bedding in the Winter ... I physically went to hell ... because BEFORE, I always had to be thinking about maintaining my flexibility and mobility and strength ... for what was coming NEXT.
+
+Unfortunately, nowadays there are no good ditchdigging jobs any more.
  
 ### Day 91 - August 30, 2025 | Christian Spiritual Health: Faithful Consistency
 This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. 
