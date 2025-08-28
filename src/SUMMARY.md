@@ -1,6 +1,6 @@
 # Summary
 
-- [FITNESS](Manifesto.md)
+- [AncientGuy Lessons](./0.md)
 
   - [Spiritual Health](./1.md)
   - [Strength, Plyometrics](./2.md)

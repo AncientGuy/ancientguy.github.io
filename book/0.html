@@ -1,0 +1,277 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>AncientGuy Lessons - Beat The Addiction To Comfort</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Beat The Addiction To Comfort</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="ancient-guy-framework-for-transformative-discipleship"><a class="header" href="#ancient-guy-framework-for-transformative-discipleship"><strong>Ancient Guy Framework for Transformative Discipleship</strong></a></h2>
+<p>True recovery and transformative discipleship is apparent as we study the actions of our early human predecessors, starting with Adam's <em><strong>original sin</strong></em> and trying to hide from God all the way to Noah's building of an ark per God's instructioins to save living things. Our lives also move from denial or covering shame to when we construct lives according to God's will in an attempt to help bring others to salvation. We are NOT God ... we are NOT the Savior ... but we can follow God's will, accept saving grace and ask that Holy Spirit fills our lives. Giving the glory to God and attempting to serve as an example in the manner of Adam through Noah is all all about our legacy of discipleship and moving from fallen isolation to becoming builders of those technologies and tools which, like Noah's ark, might somehow further the redemptive community.</p>
+<p>The antediluvian patriarchs teach us that recovery isn't individual but generational. Each Ancient Guy's story contributes to a larger narrative of redemption. When we listen to others in recovery, we're hearing echoes of these ancient patterns. When we build for God's glory, we're continuing work begun in Eden and completed in Christ.</p>
+<p>The ten lessons in this Transformative Discipleship Technology (TDT) framework are based upon a comprehensive recovery theology:</p>
+<p><strong>Foundation Phase (Adam-Seth-Enosh)</strong>: Admit powerlessness, believe in restoration, embrace dependence</p>
+<p><strong>Inventory Phase (Kenan-Mahalalel)</strong>: Take honest inventory, transform pain to praise</p>
+<p><strong>Vigilance Phase (Jared-Enoch)</strong>: Guard against descent, pursue transcendent fellowship</p>
+<p><strong>Service Phase (Methuselah-Lamech-Noah)</strong>: Become patient witness, maintain hope, build salvation structures</p>
+<h2 id="lesson-1-radical-honesty-about-our-fallen-state"><a class="header" href="#lesson-1-radical-honesty-about-our-fallen-state"><strong>Lesson 1: Radical Honesty About Our Fallen State</strong></a></h2>
+<p><strong>Patriarch: Adam</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 1 (Powerlessness) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 1 (Realize I'm not God)</em></p>
+<p>Adam's story embodies the first crucial admission - we are not God and our attempts to be so lead to destruction. His hiding after the fall (Genesis 3:8-10) represents our universal tendency to cover shame rather than confess powerlessness. Recovery begins where Adam's story does after the fall: admitting the naked truth of our condition.</p>
+<p><strong>Application for Building</strong>: We cannot build anything lasting for God's glory while hiding behind fig leaves. Listening to others requires first admitting our own brokenness. Adam teaches us that transformation begins with saying, "I am powerless over sin and my life has become unmanageable."</p>
+<h2 id="lesson-2-restoration-through-appointed-grace"><a class="header" href="#lesson-2-restoration-through-appointed-grace"><strong>Lesson 2: Restoration Through Appointed Grace</strong></a></h2>
+<p><strong>Patriarch: Seth</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 2 (Belief in Higher Power) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 2 (Earnestly believe God exists)</em></p>
+<p>Seth was literally "appointed" as a replacement seed after Abel's death - demonstrating that God provides second chances. His line began "calling upon the name of the Lord" (Genesis 4:26). Seth represents the hope that emerges when we believe God can restore what sin has destroyed.</p>
+<p><strong>Application for Building</strong>: When we listen to others' stories of loss and failure, we can point to Seth's <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> - God appoints new beginnings. Building redemptive communities requires believing that God actively provides restoration, not just punishment.</p>
+<h2 id="lesson-3-embracing-mortal-dependence"><a class="header" href="#lesson-3-embracing-mortal-dependence"><strong>Lesson 3: Embracing Mortal Dependence</strong></a></h2>
+<p><strong>Patriarch: Enosh</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 3 (Turn will over) + <em><strong>AA 12Step</strong></em> <em>Step</em> 7 (Humbly ask Him to remove shortcomings)</em></p>
+<p>Enosh means "mortal/frail," and during his time humanity began corporate worship. His very name is an admission of human frailty. This patriarch embodies the movement from recognizing weakness to surrendering that weakness in worship.</p>
+<p><strong>Application for Building</strong>: True discipleship emerges when we stop pretending to be strong. Listening to others becomes transformative when we embrace our mutual frailty. Building for God's glory requires the humility Enosh's name represents - we are mortal, dependent beings who need divine strength.</p>
+<h2 id="lesson-4-taking-inventory-as-possession-of-truth"><a class="header" href="#lesson-4-taking-inventory-as-possession-of-truth"><strong>Lesson 4: Taking Inventory as Possession of Truth</strong></a></h2>
+<p><strong>Patriarch: Kenan</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 4 (Moral inventory) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 4 (Openly examine and confess)</em></p>
+<p>Kenan's name relates to "possession" or "acquisition." In recovery terms, he represents taking possession of our truth through fearless moral inventory. Though Scripture says little about him, his position in the genealogy shows faithfulness in maintaining the line - he possessed and passed on truth.</p>
+<p><strong>Application for Building</strong>: We cannot build authentically while possessing hidden lies. Kenan teaches us to take inventory of what we truly possess - both defects and assets. Listening to others requires first possessing honest self-knowledge.</p>
+<h2 id="lesson-5-transforming-pain-into-praise"><a class="header" href="#lesson-5-transforming-pain-into-praise"><strong>Lesson 5: Transforming Pain into Praise</strong></a></h2>
+<p><strong>Patriarch: Mahalalel</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 11 (Prayer and meditation) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 7 (Reserve daily time with God)</em></p>
+<p>His name means "Praise of God." Mahalalel represents the discipline of maintaining praise even in a declining world. He lived when corruption was increasing, yet his very identity was wrapped in worship.</p>
+<p><strong>Application for Building</strong>: Recovery requires transforming our narrative from complaint to praise. When listening to others' struggles, we help them find the hidden praise in their pain. Building for God's glory means maintaining worship regardless of circumstances.</p>
+<h2 id="lesson-6-guarding-against-descent"><a class="header" href="#lesson-6-guarding-against-descent"><strong>Lesson 6: Guarding Against Descent</strong></a></h2>
+<p><strong>Patriarch: Jared</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 10 (Continued inventory) + <em><strong>AA 12Step</strong></em> <em>Step</em> 6 (Ready for God to remove defects)</em></p>
+<p>Jared means "descent," and tradition holds that during his time the "Watchers" fell. He represents vigilance against spiritual decline. His longevity (962 years) suggests patient endurance in maintaining standards while surrounded by descent.</p>
+<p><strong>Application for Building</strong>: Recovery requires constant vigilance against relapse. Jared teaches us to watch for signs of descent in ourselves and our communities. Building lasting ministries means creating accountability structures that guard against gradual compromise.</p>
+<h2 id="lesson-7-walking-in-transcendent-fellowship"><a class="header" href="#lesson-7-walking-in-transcendent-fellowship"><strong>Lesson 7: Walking in Transcendent Fellowship</strong></a></h2>
+<p><strong>Patriarch: Enoch</strong>
+<em>Synthesis: <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 8 (Yield to be used) + <em><strong>AA 12Step</strong></em> <em>Step</em> 12 (Spiritual awakening and carrying message)</em></p>
+<p>Enoch "walked with God" and was translated without dying. He represents the pinnacle of recovery - such intimate fellowship with God that we transcend our former nature entirely. His prophecy (Jude 14-15) shows he also confronted others with truth.</p>
+<p><strong>Application for Building</strong>: The goal isn't just sobriety but transformation so complete we "walk with God." Enoch shows that listening to God enables us to speak prophetically to others. Building for eternity means pursuing fellowship so deep that our work transcends earthly limitations.</p>
+<h2 id="lesson-8-patient-endurance-as-witness"><a class="header" href="#lesson-8-patient-endurance-as-witness"><strong>Lesson 8: Patient Endurance as Witness</strong></a></h2>
+<p><strong>Patriarch: Methuselah</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 9 (Make amends) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 6 (Evaluate relationships)</em></p>
+<p>Methuselah's 969-year life was itself a testimony - his death would signal judgment. Every day he lived was grace extended to humanity. He embodies patient endurance and the <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> that our lives affect others' opportunity for redemption.</p>
+<p><strong>Application for Building</strong>: Our recovery journey affects others' timeline for transformation. Methuselah teaches that patient relationship-building creates space for others' repentance. Sometimes the greatest thing we build is simply time - patient presence that gives others opportunity to change.</p>
+<h2 id="lesson-9-prophetic-hope-in-cursed-ground"><a class="header" href="#lesson-9-prophetic-hope-in-cursed-ground"><strong>Lesson 9: Prophetic Hope in Cursed Ground</strong></a></h2>
+<p><strong>Patriarch: Lamech</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 5 (Admit wrongs) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 3 (Consciously choose to commit)</em></p>
+<p>Lamech acknowledged the curse's reality while prophetically hoping for comfort through his son Noah. He represents honest acknowledgment of present pain while maintaining future hope. His words show someone who has faced hard truth yet chooses faith.</p>
+<p><strong>Application for Building</strong>: Recovery requires Lamech's balance - admitting the curse's reality while believing in coming comfort. When listening to others, we acknowledge their real pain while pointing to hope. Building redemptive communities means working in "cursed ground" while proclaiming coming restoration.</p>
+<h2 id="lesson-10-building-arks-of-salvation"><a class="header" href="#lesson-10-building-arks-of-salvation"><strong>Lesson 10: Building Arks of Salvation</strong></a></h2>
+<p><strong>Patriarch: Noah</strong>
+<em>Synthesis: <em><strong>AA 12Step</strong></em> <em>Step</em> 8 (List persons harmed) + <em><strong>Celebrate Recovery</strong></em> <em>Principle</em> 5 (Voluntarily submit to change) + All principles culminating</em></p>
+<p>Noah encompasses the complete recovery journey - he was righteous in a corrupt generation, obedient to seemingly impossible instructions, and built something that saved others. The ark represents the ultimate recovery project: building vessels of salvation for community redemption.</p>
+<p><strong>Application for Building</strong>: Noah didn't just achieve personal righteousness; he built something that carried others through judgment. True recovery culminates in creating structures that help others survive their floods. Listening to God's instructions, no matter how impossible they seem, leads to building projects that save generations.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+                            <a rel="next prefetch" href="1.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+                    <a rel="next prefetch" href="1.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
