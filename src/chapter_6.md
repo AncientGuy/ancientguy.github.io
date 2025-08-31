@@ -2108,13 +2108,210 @@ I think that I gave too much importance to *faithful, consistent* participation 
 It's certainly **NOT** that going to church is a bad thing, even if people just going through the motions for reasons they don't fully understand ... orbiting a dead center of mass is AT LEAST being in orbit ... THE problem with participating in church activities, is the same as DRIVING TO the gym instead of walking more including walking to the gym -- the problem is that while one is going through the motions, doing the mindless thing, one is failing to do the HARDER, TOUGHER, IMPOSSIBLE contemplative thing that nobody sees ... and the REASON that the contemplative thing matters is definitely NOT the contemplation -- it is the FRUIT of the contemplation, ie specifically HOW does the contemplation CHANGE one ... not the outward physical manifestation of the *change*, ie *as a result of my contemplation, I decided to PLAN, DO, CHECK and ACT systematically on long-term project X** but the internal and ETERNAL ***change*** itself.
  
 ### Day 92 - August 31, 2025 | Strength Training: Summer Strength Assessment
-This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. 
 
-Sure, sure, sure beforehand I knew that a this point I would: 
-- Test strength improvements from summer training
-- Document progress in weights, repetitions, or hold times
-- Celebrate gains while maintaining humility
-- Set strength goals for fall season ahead
+STRENGTH training reminds me of why EVERY WORK DAY, Monday thru Saturday, should begin with a "Wake Up, Welcome to Monday!" sort of attitude ... realizing that many days, even maybe most days when one's not feeling particularly strong ... realizing that it's necessary to fake this "Wake Up, Welcome to Monday!" sort of attitude early in the day, until it actually takes over OR until it's 8 PM and time to go to bed in order to get up early tomorrow. 
+
+1. Rise and shine! It's Monday, the day that makes Sunday feel like a distant memory and Tuesday look like a beacon of hope!
+
+2. Good morning! Monday has arrived with all the subtlety of a marching band in your bedroom at 4:39 AM!
+
+3. Wake up, sunshine! Monday is here to remind you that the weekend was just a beautiful dream!
+
+4. Hello Monday! The day that comes around every seven days whether we're ready or not!
+
+5. Wakey wakey! It's Monday, and your alarm clock is absolutely thrilled about it!
+
+6. Good morning! Monday has arrived, fresh and perky, completely ignoring how you feel about it!
+
+7. Rise and grind! Monday morning is here with more enthusiasm than a puppy at breakfast time!
+
+8. Wake up! Monday is knocking at your door like an overly eager neighbor at 4:39 AM!
+
+9. Good morning! It's Monday, the day that makes coffee feel less like a beverage and more like a life support system!
+
+10. Hello there! Monday morning has arrived, bright-eyed and bushy-tailed while you're neither!
+
+11. Wake up! It's Monday, and it brought five whole days of weekday adventures with it!
+
+12. Rise and shine! Monday is here, and it's absolutely convinced you're ready for this!
+
+13. Good morning! Monday has arrived with the confidence of someone who knows you can't send it back!
+
+14. Wakey wakey! It's Monday, the day that makes Sunday night feel like it happened in another lifetime!
+
+15. Hello Monday! You're back again, as reliable as that one relative who always shows up uninvited!
+
+16. Wake up! Monday morning is here, and it's practically vibrating with possibility!
+
+17. Good morning! It's Monday, and your bed has never felt more comfortable than right now!
+
+18. Rise and sparkle! Monday has arrived, and it's not taking no for an answer!
+
+19. Wake up, champion! Monday is here to test your commitment to that "new week, new me" philosophy!
+
+20. Good morning! Monday has shown up exactly on schedule, much to everyone's dismay!
+
+21. Hello sunshine! It's Monday, the day that makes Friday feel like it's in another time zone!
+
+22. Wake up! Monday morning is here with more energy than you had all weekend combined!
+
+23. Rise and thrive! It's Monday, and it's absolutely certain you're ready to conquer the world!
+
+24. Good morning! Monday has arrived like a surprise party you knew was coming but hoped wouldn't!
+
+25. Wakey wakey! It's Monday, bringing you five consecutive opportunities to wish it was Friday!
+
+26. Wake up! Monday is here, fresh as a daisy and twice as persistent!
+
+27. Good morning! It's Monday, the day that makes your weekend feel like it lasted approximately 3.5 seconds!
+
+28. Hello there! Monday morning has arrived with the subtlety of a brass band!
+
+29. Rise and shine! Monday is back, like a boomerang you never threw!
+
+30. Wake up! It's Monday, and it's brought its whole crew - Tuesday through Friday are waiting in line!
+
+31. Good morning! Monday has arrived with more determination than your snooze button can handle!
+
+32. Wakey wakey! It's Monday, the day that reminds you why coffee was invented!
+
+33. Hello Monday! You're here again, as inevitable as taxes and twice as cheerful!
+
+34. Wake up! Monday morning is knocking, and it brought donuts! (Just kidding, it only brought responsibility!)
+
+35. Rise and radiate! It's Monday, and it's absolutely glowing with opportunity!
+
+36. Good morning! Monday has shown up wearing its best "let's do this" attitude!
+
+37. Wake up, superstar! Monday is here to remind you that rest is just a social construct!
+
+38. Hello there! It's Monday, arriving with the persistence of a telemarketer!
+
+39. Good morning! Monday has landed, and it's ready to party (if by party you mean work)!
+
+40. Wake up! It's Monday, the day that makes Sunday feel like ancient history!
+
+41. Rise and dazzle! Monday morning is here with jazz hands and everything!
+
+42. Wakey wakey! Monday has arrived, optimistic as ever about your productivity potential!
+
+43. Good morning! It's Monday, back for its weekly performance of "Let's Pretend We're Morning People"!
+
+44. Hello Monday! You magnificent beast of burden and bringer of beginnings!
+
+45. Wake up! Monday is here, and it's brought enough enthusiasm for both of you!
+
+46. Good morning! It's Monday, the day that proves time is indeed a flat circle!
+
+47. Rise and beam! Monday has arrived with the confidence of someone who's never been snoozed!
+
+48. Wake up! Monday morning is here, caffeinated and ready to rumble!
+
+49. Hello sunshine! It's Monday, and it's absolutely convinced you've had enough weekend!
+
+50. Good morning! Monday has shown up right on time, like that friend who's annoyingly punctual!
+
+51. Wakey wakey! It's Monday, here to turn your weekend vibes into weekday drives!
+
+52. Wake up! Monday is knocking with the persistence of opportunity itself!
+
+53. Rise and glow! It's Monday, shining brighter than your phone screen at 4:39 AM!
+
+54. Good morning! Monday has arrived, and resistance is futile!
+
+55. Hello there! It's Monday, back from its brief vacation to bother you again!
+
+56. Wake up! Monday morning is here with more pep than a cheerleading squad!
+
+57. Good morning! It's Monday, the day that makes you question the fairness of the space-time continuum!
+
+58. Rise and conquer! Monday has arrived, armed with deadlines and dressed in determination!
+
+59. Wakey wakey! It's Monday, and it's brought its favorite alarm clock just for you!
+
+60. Wake up! Monday is here, as fresh as yesterday's coffee reheated with hope!
+
+61. Good morning! It's Monday, arriving with the subtlety of a foghorn!
+
+62. Hello Monday! You beautiful, terrible, wonderful nemesis!
+
+63. Wake up! Monday morning has arrived, and it's doing jazz hands at your sleepy face!
+
+64. Rise and prosper! It's Monday, and it believes in you more than you believe in yourself right now!
+
+65. Good morning! Monday has shown up, ready to make Sunday a distant memory!
+
+66. Wakey wakey! It's Monday, the day that makes "five more minutes" feel like a reasonable life goal!
+
+67. Wake up! Monday is here with enough energy to power a small city!
+
+68. Hello there! It's Monday, and it's brought its whole entourage of weekdays!
+
+69. Good morning! Monday has arrived like a overly enthusiastic fitness instructor!
+
+70. Rise and shimmer! It's Monday, sparkling with possibility and mocking your exhaustion!
+
+71. Wake up! Monday morning is here, and it's practically doing cartwheels!
+
+72. Good morning! It's Monday, the day that FORCES you to appreciate Sunday on an appropriately spiritual level!
+
+73. Hello Monday! You're back, as predictable as gravity and twice as heavy!
+
+74. Wakey wakey! It's Monday, arriving with the grace of a bull in a china shop!
+
+75. Wake up! Monday is here to remind you that the weekend was not, in fact, endless!
+
+76. Rise and flourish! It's Monday, blooming with opportunity at 4:39 AM!
+
+77. Good morning! Monday has shown up with more pizzazz than a Broadway opening!
+
+78. Wake up! It's Monday, and it's brought enough motivation for someone, somewhere!
+
+79. Hello there! Monday morning has arrived, chipper as a bird that doesn't pay bills!
+
+80. Good morning! It's Monday, the day that makes your pillow feel like it's made of magnets!
+
+81. Wakey wakey! Monday is here, and it's absolutely buzzing with Monday energy!
+
+82. Wake up! It's Monday, arriving with the inevitability of a software update!
+
+83. Rise and excel! Monday has come to collect on all those Sunday night promises!
+
+84. Good morning! It's Monday, and it's brought its signature blend of hope and horror!
+
+85. Hello Monday! You persistent little rascal of productivity!
+
+86. Wake up! Monday morning is here with bells on (literally, that's your alarm)!
+
+87. Good morning! It's Monday, the day that makes time feel like a cruel joke!
+
+88. Rise and astonish! Monday has arrived to be amazed by your enthusiasm (or lack thereof)!
+
+89. Wakey wakey! It's Monday, and it's absolutely thrilled to see you again!
+
+90. Wake up! Monday is here, dressed in its finest "let's get things done" outfit!
+
+91. Good morning! It's Monday, arriving with the subtlety of a marching band at dawn!
+
+92. Hello there! Monday has shown up, ready to turn your weekend memories into motivation!
+
+93. Wake up! It's Monday, and it's brought enough daylight to last until evening!
+
+94. Rise and inspire! Monday morning is here to test your commitment to consciousness!
+
+95. Good morning! It's Monday, the day that makes Friday feel like it's in another dimension!
+
+96. Wakey wakey! Monday has arrived with more gusto than a double espresso!
+
+97. Wake up! It's Monday, and it's absolutely convinced that 4:39 AM is a reasonable time!
+
+98. Hello Monday! You magnificent monument to human endurance!
+
+99. Good morning! It's Monday, here to remind you that weekends are just a temporary cease-fire!
+
+100. Rise and shine! It's Monday - only four more wake-ups until Friday, and then two more until Monday returns triumphant once again!
+
+This is about what I have *learned* in the first quarter doing this ... and maybe ***learned*** is not exactly the word ... what I actually **APPRECIATE** more now that I maybe did not fully acknowledge before. 
 
 **BUT WHAT ELSE?**
 
