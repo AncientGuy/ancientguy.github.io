@@ -15,7 +15,7 @@
  
 
 - [Recovery and Transformation](401-500.md)
-  - [1-100, 100 Days Of Fitness & Wellness Topics](./1-100.md)
-  - [101-200, 100 Days Of Programming Yourself](./101-200.md)
-  - [201-300, 100 Days Of Personal Knowledge Engineering](./201-300.md)
-  - [301-400, 100 Days Of Koan Engine Building To Spur Deeper Contemplation](./301-400.md)
+  - [1-100, 100 Days Of Fitness & Wellness Topics As A Foundation](./1-100.md)
+  - [101-200, 100 Days Of Mastering Personal Knowledge Managemeent Systems](./101-200.md)
+  - [201-300, 100 Days Of Programming Personal Knowledge Engineering Systems](./201-300.md)
+  - [301-400, 100 Days Of Developing Better Questions For Deeper Contemplation](./301-400.md)
