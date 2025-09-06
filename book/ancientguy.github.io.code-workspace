@@ -6,6 +6,10 @@
 		{
 			"name": "PKE",
 			"path": "../../PKE"
+		},
+		{
+			"name": "PKM",
+			"path": "../../PKM"
 		}
 	],
 	"settings": {}
